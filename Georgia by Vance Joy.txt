@@ -1,0 +1,45 @@
+https://www.youtube.com/watch?v=v-EsU6N26Ic
+
+
+Verse = Intro
+
+/
+
+Intro x2
+
+Verse x4
+	After last intro play:
+			play 5 & 7, and play (let ring) B string (instead of usual G)
+			then play harmonic (also let ring) on 7th fret G string
+
+Chorus x4
+	 On last intro play:
+			let G string pluck (normal) ring out
+
+Verse x4-5
+	After last intro play:
+			play 5 & 7, and play (let ring) B string (instead of usual G)
+			then play harmonic (also let ring) on 7th fret G string
+
+Chorus x4
+	 On last intro play:
+			let G string pluck (normal) ring out
+
+Bridge part 1
+	open G + B string on frets:
+		5, 7, 8, 12
+		5, 7, 7, 12
+
+Bridge part 2
+	first time around:
+		7 & 8
+		5 & 7 & 5
+		2 & X (open B)
+		3 & 5 & 3
+	second time:
+		7 & 8
+		5 & 7 & 5
+		10 & 12
+		3 & X (open B)
+
+Chorus x (until end of song)
