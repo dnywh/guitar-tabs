@@ -8,22 +8,22 @@ Verse = Intro
 Intro x2
 
 Verse x4
-	After last intro play:
+	After last intro play (after the 3 & 5, add):
 			play 5 & 7, and play (let ring) B string (instead of usual G)
 			then play harmonic (also let ring) on 7th fret G string
 
 Chorus x4
 	 On last intro play:
-			let G string pluck (normal) ring out
+			let G string pluck (normal) ring out (fade out)
 
-Verse x4-5
-	After last intro play:
+Verse x4
+	After last intro play (after the 3 & 5, add):
 			play 5 & 7, and play (let ring) B string (instead of usual G)
 			then play harmonic (also let ring) on 7th fret G string
 
 Chorus x4
 	 On last intro play:
-			let G string pluck (normal) ring out
+			let G string pluck (normal) ring out (fade out)
 
 Bridge part 1
 	open G + B string on frets:
@@ -43,3 +43,112 @@ Bridge part 2
 		3 & X (open B)
 
 Chorus x (until end of song)
+
+
+
+//
+VERSE:
+Em     Bm       C      D
+She is something to behold
+Bm  C        Em               Bm  C      D        Bm  C
+Elegant and bold
+Em     Bm    C    D
+She is electricity
+Bm      C           Em        Bm  C      D        Bm  C
+Running through my soul
+
+C     D
+
+CHORUS:
+    Em              D
+And I could easily lose my mind
+    G                    C
+The way you kiss me will work each time
+Em                 D
+Calling me to come back to bed
+        G               C
+Singing Georgia on my mind
+    Em    D     G     C             
+And I...
+    Em    D     G     C             
+And I...
+
+
+VERSE:
+Em   Bm   C        D
+Lips generous and warm
+    Bm       C        Em           Bm  C     D        Bm  C
+You build me up like steps
+Em   Bm    C       D
+Eyes innocent and wild
+  Bm       C         Em            Bm  C      D        Bm  C
+Remind me what it's like
+
+C    D
+
+CHORUS:
+    Em              D
+And I could easily lose my mind
+    G                     C
+The way you kiss me will work each time
+Em                D
+Pulling me back into the flames 
+        G                     C
+And I'm burning up again, I'm burning up 
+
+    Em    D
+And I, I never understood what was 
+G            C
+At stake, I never thought your love was worth
+Em                D
+It's wait, well now you've come and gone
+          G                C
+I finally worked it out, I worked it out
+
+
+BRIDGE: [x2] (100-110 BPM)
+C
+I never should have told you
+D				   (Em)
+I never should have let you see inside
+Em				   (G)
+Don't want it troubling your mind
+G		   (C)
+Won't you let it be
+C
+I never should have told you
+D
+I never should have let you see inside
+Em
+Don't want it troubling your mind
+G
+Won't you let it be
+
+
+INTERLUDE:
+Em   D   Bm   C
+Em   D   Bm   C
+
+
+CHORUS:
+    Em              D
+And I could easily lose my mind
+    G                     C
+The way you kiss me will work each time
+Em                D
+Pulling me back into the flames 
+        G                     C
+And I'm burning up again, I'm burning up 
+
+    Em    D
+And I, I never understood what was 
+G            C
+At stake, I never thought your love was worth
+Em                D
+It's wait, well now you've come and gone
+          G                C
+I finally worked it out, I worked it out
+
+Em     D      G      C        x2
+
+(I like to end with 1 round of the interlude instead)
